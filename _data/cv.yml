@@ -1,0 +1,110 @@
+cv:
+  name: Mahyar Maleki
+  label: Guest researcher, Freie Universität Berlin
+  email: m4hyarm@gmail.com
+  location: Berlin, Germany
+  image: ""
+  summary: MSc in Artificial Intelligence from the University of Tehran, working at the intersection of computational neuroscience and computer vision. Currently a guest researcher at Freie Universität Berlin, studying how temporal information is processed in video models and the human brain. Looking for PhD positions in computational neuroscience, machine learning, and brain-inspired AI.
+
+  social_networks:
+    - network: GitHub
+      username: m4hyarm
+    - network: LinkedIn
+      username: mahyar-maleki-1ba5a8166
+
+  sections:
+    Education:
+      - institution: University of Tehran
+        location: Tehran, Iran
+        url: https://ut.ac.ir/en
+        area: Computer Engineering, Artificial Intelligence
+        studyType: MSc
+        start_date: 2021-09
+        end_date: 2024-09
+        score: "GPA 3.65/4"
+        highlights:
+          - "Thesis: Comparing Representation of Video and Still Images in Brain with EEG Signals"
+          - "Supervisor: Dr. Mohammad-Reza A. Dehaqani"
+
+      - institution: Imam Khomeini International University
+        location: Qazvin, Iran
+        area: Mechanical Engineering
+        studyType: BSc
+        start_date: 2015-09
+        end_date: 2019-09
+
+    Experience:
+      - company: Neural Dynamics of Visual Cognition Lab, Freie Universität Berlin
+        position: Guest Researcher
+        location: Berlin, Germany
+        start_date: 2026-01
+        end_date: present
+        summary: Investigating how temporal information shapes visual recognition, comparing video and image models with EEG and fMRI responses to naturalistic videos.
+        highlights:
+          - "Supervisor: Prof. Radoslaw M. Cichy"
+          - Funded by a one-year research scholarship from Freie Universität Berlin
+
+      - company: Convergent Technologies Research Center, University of Tehran
+        position: Research Assistant
+        location: Tehran, Iran
+        start_date: 2022
+        end_date: 2024
+        summary: Master’s thesis research on brain representations of videos and still images using EEG.
+        highlights:
+          - "Supervisor: Dr. Mohammad-Reza A. Dehaqani"
+
+      - company: Convergent Technologies Research Center, University of Tehran
+        position: Research Assistant
+        location: Tehran, Iran
+        start_date: 2022
+        end_date: 2023
+        summary: Brain data analysis and machine learning for a brain–machine interface project aimed at supporting users with autism spectrum disorder.
+
+    Publications:
+      - title: Brain-Aligned Multi-Stream Video Transformers with Sparse Self-Selection
+        authors:
+          - Amir Hosein Fadaei
+          - Mahyar Maleki
+          - Mohammad-Reza A. Dehaqani
+        publisher: arXiv preprint
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2607.17625
+
+    Teaching:
+      - bullet: "**Trustworthy AI**, University of Tehran (Spring 2024): designed an assignment on backdoor attacks based on Neural Cleanse."
+      - bullet: "**Introduction to FieldTrip**, CuttingEEG workshop, Tehran (October 2023)."
+      - bullet: "**Statistical Inference**, University of Tehran (Spring and Fall 2023): mentored students on probability distributions in R."
+      - bullet: "**Computational Neuroscience**, Neuromatch Academy (July 2023)."
+      - bullet: "**Deep Neural Networks**, University of Tehran (Spring 2023): created instructional videos on PyTorch for CNNs."
+
+    Awards:
+      - title: Ranked 42nd of about 12,000 in Iran’s national master’s entrance exam
+        awarder: National entrance exam
+      - title: Top 2% in Iran’s national university entrance exam
+        awarder: National entrance exam
+      - title: Tuition-fee exemption for master’s studies
+        awarder: University of Tehran
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, R, SQL, Git"
+      - name: Machine learning
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, TensorFlow, scikit-learn, MMAction, NumPy, pandas"
+      - name: Neuroscience
+        icon: fa-solid fa-wave-square
+        keywords: "EEGLAB, FieldTrip, Net2Brain, PsychoPy, Psychtoolbox, RSA, decoding"
+
+    Languages:
+      - name: Persian
+        summary: Native
+      - name: English
+        summary: Proficient (TOEFL 102)
+      - name: German
+        summary: Basic
+
+    Interests:
+      - name: Research interests
+        icon: fa-solid fa-tag
+        keywords: "Computational neuroscience, visual perception, temporal integration in vision, video understanding models, explainable AI, generative AI"

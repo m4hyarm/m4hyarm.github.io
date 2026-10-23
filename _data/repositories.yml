@@ -1,0 +1,12 @@
+github_users:
+  - m4hyarm
+
+repo_description_lines_max: 2
+
+github_repos:
+  - m4hyarm/Trustworthy_AI_Course_Assignments
+  - m4hyarm/Deep_Learning_Course_Assignments
+  - m4hyarm/Cognitive_Science_Course_Assignments
+  - m4hyarm/DeepGUM
+  - m4hyarm/Reinforcement_Learning_Course_Assignments
+  - m4hyarm/Particle-Filter-Localization
