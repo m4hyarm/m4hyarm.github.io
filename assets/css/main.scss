@@ -1,0 +1,34 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@use "sass:math";
+@use "sass:string";
+
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+@use "themes";
+@use "layout";
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* ---- My colour overrides ---- */
+:root {
+  --global-theme-color: #1f6fa8;   /* light mode: links, highlights */
+  --global-hover-color: #1f6fa8;
+}
+html[data-theme="dark"] {
+  --global-theme-color: #6cb0e6;   /* dark mode */
+  --global-hover-color: #6cb0e6;
+}
