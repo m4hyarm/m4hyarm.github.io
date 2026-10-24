@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Guest researcher at <a href='https://ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/'>Freie Universität Berlin</a>. Computational neuroscience and computer vision.
+subtitle: Guest researcher at <a href='https://ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/'>Freie Universität Berlin</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Berlin, Germany</p>
+  more_info: <p>Berlin, Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +26,8 @@ latest_posts:
 
 I study how the brain and artificial neural networks use time to recognise what they see.
 
-I’m a guest researcher in Radoslaw Cichy’s [Neural Dynamics of Visual Cognition lab](https://ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/) at Freie Universität Berlin, where I compare video and image models with EEG and fMRI responses to naturalistic videos. Before that, I did an MSc in Artificial Intelligence at the University of Tehran. My thesis used EEG to compare how the brain represents videos and still images, and found that scrambling the order of video frames makes them harder and slower to decode from brain activity.
+I’m a guest researcher in Radoslaw Cichy’s [Neural Dynamics of Visual Cognition lab](https://ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/) at Freie Universität Berlin, where I compare video and image models with EEG and fMRI responses to naturalistic videos. Before that, I did an MSc in Artificial Intelligence at the University of Tehran. My thesis used EEG to compare how the brain represents videos and still images.
 
-My interests include computational neuroscience, visual perception, temporal integration in vision, video understanding models, and explainable and generative AI.
+My interests include computational neuroscience, visual perception, temporal integration in vision, video understanding models, and explainable AI.
 
 **I’m looking for a PhD position** in computational neuroscience, machine learning, or brain-inspired AI. If you think I could be a good fit for your group, please [get in touch](mailto:m4hyarm@gmail.com).
