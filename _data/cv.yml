@@ -4,7 +4,7 @@ cv:
   email: m4hyarm@gmail.com
   location: Berlin, Germany
   image: ""
-  summary: Currently a guest researcher at Freie Universität Berlin in Berlin, Germany, studying how video models and the human brain process temporal information. I hold an MSc in Artificial Intelligence from the University of Tehran and specialize in research at the intersection of AI and neuroscience. My master’s thesis focused on EEG-based neural data analysis, combining cognitive neuroscience with advanced machine learning. I’m seeking PhD opportunities and research roles in computational neuroscience, machine learning, and brain-inspired AI.
+  summary: Guest researcher at Freie Universität Berlin, working with deep learning models for video and images and comparing them with EEG and fMRI recordings from the human brain. I hold an MSc in Artificial Intelligence from the University of Tehran, where my thesis used EEG to study how the brain represents videos and still images. My work combines machine learning, data analysis and cognitive neuroscience, mostly in Python and PyTorch. I’m available from early 2027 and open to research and engineering positions in machine learning.
 
   social_networks:
     - network: GitHub
@@ -88,10 +88,19 @@ cv:
     Skills:
       - name: Programming
         icon: fa-solid fa-code
-        keywords: "Python, MATLAB, R, SQL, Git"
-      - name: Machine learning
+        keywords: "Python, SQL, R, MATLAB, Git"
+      - name: Deep learning
         icon: fa-solid fa-brain
-        keywords: "PyTorch, TensorFlow, scikit-learn, MMAction, NumPy, pandas"
+        keywords: "PyTorch, TensorFlow, Hugging Face Transformers, MMAction, CNNs, U-Net, Transformers"
+      - name: Machine learning and data analysis
+        icon: fa-solid fa-chart-line
+        keywords: "scikit-learn, pandas, NumPy, statistical inference, time-series and signal processing, Matplotlib, Seaborn, web scraping"
+      - name: Explainable AI
+        icon: fa-solid fa-magnifying-glass
+        keywords: "LIME, SHAP, out-of-distribution detection, backdoor detection"
+      - name: Tools
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Linux, HPC clusters, Hydra/OmegaConf, Jupyter"
       - name: Neuroscience
         icon: fa-solid fa-wave-square
         keywords: "EEGLAB, FieldTrip, Net2Brain, PsychoPy, Psychtoolbox, RSA, decoding"
@@ -105,6 +114,6 @@ cv:
         summary: Basic
 
     Interests:
-      - name: Research interests
+      - name: Interests
         icon: fa-solid fa-tag
-        keywords: "Computational neuroscience, visual perception, temporal integration in vision, video understanding models, explainable AI, generative AI"
+        keywords: "Video understanding models, computer vision, explainable AI, generative AI, computational neuroscience, visual perception, temporal integration in vision"

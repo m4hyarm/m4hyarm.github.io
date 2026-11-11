@@ -23,10 +23,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I study how the brain and artificial neural networks use time to recognise what they see.
+I work with deep learning models for video and images, and test how closely they match recordings from the human brain.
 
 I’m a guest researcher in Radoslaw Cichy’s [Neural Dynamics of Visual Cognition lab](https://ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/) at Freie Universität Berlin, where I compare video and image models with EEG and fMRI responses to naturalistic videos. Before that, I did an MSc in Artificial Intelligence at the University of Tehran. My thesis used EEG to compare how the brain represents videos and still images.
 
-My interests include computational neuroscience, visual perception, temporal integration in vision, video understanding models, and explainable AI.
+Most of my work is in Python and PyTorch, from collecting and cleaning data to training models and analysing the results. I’m most interested in video understanding, computer vision, explainable AI and computational neuroscience.
 
-**I’m looking for a PhD position** in computational neuroscience, machine learning, or brain-inspired AI. If you think I could be a good fit for your group, please [get in touch](mailto:m4hyarm@gmail.com).
+**I’m available from early 2027** and open to research and engineering positions in machine learning. If my background fits what you are working on, please [get in touch](mailto:m4hyarm@gmail.com).

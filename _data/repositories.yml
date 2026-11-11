@@ -4,9 +4,15 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - m4hyarm/brain-tumor-segmentation
   - m4hyarm/Trustworthy_AI_Course_Assignments
+  - m4hyarm/saliency-map-prediction
+  - m4hyarm/alexnet-inversion
   - m4hyarm/Deep_Learning_Course_Assignments
   - m4hyarm/Cognitive_Science_Course_Assignments
+  - m4hyarm/alibaba-mrblit-tickets-scraper
+  - m4hyarm/digikala-laptop-scraper
+  - m4hyarm/simple-dnn-from-scratch
   - m4hyarm/DeepGUM
   - m4hyarm/Reinforcement_Learning_Course_Assignments
   - m4hyarm/Particle-Filter-Localization

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected course projects from my master’s studies. Each card links to its code on GitHub.
+description: Selected projects in deep learning, explainable AI and data analysis. Each card links to its code on GitHub.
 nav: true
 nav_order: 3
 horizontal: false

@@ -2,7 +2,7 @@
 layout: page
 title: "Cognitive neuroscience"
 description: "Dynamical neuron models, and analysis of EEG, LFP, fMRI and single-cell recordings."
-importance: 3
+importance: 6
 redirect: https://github.com/m4hyarm/Cognitive_Science_Course_Assignments
 github: https://github.com/m4hyarm/Cognitive_Science_Course_Assignments
 ---
