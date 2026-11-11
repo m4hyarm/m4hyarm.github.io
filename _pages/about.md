@@ -29,4 +29,4 @@ I’m a guest researcher in Radoslaw Cichy’s [Neural Dynamics of Visual Cognit
 
 Most of my work is in Python and PyTorch, from collecting and cleaning data to training models and analysing the results. I’m most interested in video understanding, computer vision, explainable AI and computational neuroscience.
 
-**I’m available from early 2027** and open to research and engineering positions in machine learning. If my background fits what you are working on, please [get in touch](mailto:m4hyarm@gmail.com).
+**I’m available from early 2027** and open to research and engineering positions in machine learning and neuroscience. If my background fits what you are working on, please [get in touch](mailto:m4hyarm@gmail.com).
